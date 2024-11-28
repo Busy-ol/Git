@@ -1,0 +1,14 @@
+* {
+    font-size: 1em;
+    background-color: #d6e4db ;
+    color: #000 ;
+    font-family: Arial, sans-serif;
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 3em;
+    color: rgb(32, 63, 40);
+    background: linear-gradient(rgb(62, 233, 139), rgb(192, 255, 239));
+    width: 500px;
+}
